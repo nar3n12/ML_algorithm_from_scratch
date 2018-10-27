@@ -1,5 +1,5 @@
 import numpy as np
-
+print("LINEAR REGRESSION")
 class linearRegression:
     b = [0,0]
     def train(self,x,y):
